@@ -35,41 +35,25 @@
 - ✨Magic ✨
 
 ## Цель работы
-Познакомиться с программными средствами для организции передачи данных между инструментами google, Python и Unity.
+Познакомиться с программными средствами для создания системы машинного обучения и ее интеграции в Unity.
 
 ## Задание 1
-- Облачный сервис google console
+- Установка пакетов в Pakage Manager
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2020.54.52.png?raw=true)
-- Подключение API для работы с google drive
+- Создание необходимых объектов
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.16.06.png?raw=true)
-- Подключение API для работы с google sheets
+- Привязка скрипта и задание свойств
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.16.17.png?raw=true)
 
-- Добавление JSON
+- 3 копии
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.13.10.png?raw=true)
-- Добавление доступа
+- 9 копий
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.41.10.png?raw=true)
-- Скрипт на python
+- 27 копий
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.34.37.png?raw=true)
-- Вывод скрипта на python
+- Обучение агента
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.36.31.png?raw=true)
-- Данные в таблице
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.37.04.png?raw=true)
-
-- Создание нового проекта на Unity
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.46.37.png?raw=true)
-- Служебный код
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2022.20.54.png?raw=true)
-- Связь с гугл-таблицами
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2022.21.01.png?raw=true)
-- Вывод
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2022.45.11.png?raw=true)
-
-- Написать функционал на Unity, в котором будет воспризводиться аудио-файл в зависимости от значения данных из таблицы
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2023.03.04.png?raw=true)
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2023.05.50.png?raw=true)
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2023.07.29.png?raw=true)
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-12%20в%2000.56.30.png?raw=true)
+- Средний показатель награды составил 0,922
 
 ## Задание 2
 - Реализация записи в Google-таблицу набора данных, полученных с помощью линейной регрессии из лабораторной работы № 1
