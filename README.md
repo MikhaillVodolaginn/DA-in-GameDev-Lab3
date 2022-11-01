@@ -39,20 +39,20 @@
 
 ## Задание 1
 - Установка пакетов в Pakage Manager
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2020.54.52.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-26%20в%2022.54.22.png?raw=true)
 - Создание необходимых объектов
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.16.06.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-27%20в%2001.48.18.png?raw=true)
 - Привязка скрипта и задание свойств
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.16.17.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-27%20в%2001.48.44.png?raw=true)
 
 - 3 копии
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.13.10.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-27%20в%2002.21.37.png?raw=true)
 - 9 копий
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.41.10.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-27%20в%2002.23.51.png?raw=true)
 - 27 копий
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.34.37.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-27%20в%2002.29.02.png?raw=true)
 - Обучение агента
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.36.31.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-27%20в%2002.37.19.png?raw=true)
 - Средний показатель награды составил 0,922
 
 ## Задание 2
