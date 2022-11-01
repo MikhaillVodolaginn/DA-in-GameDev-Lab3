@@ -166,6 +166,9 @@ public class RollerAgent : Agent
 }
 ```
 
+- Обучение нового скрипта, среднее вознаграждение 0,989
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-11-01%20в%2016.29.47.png?raw=true)
+
 ## Выводы
 
 В данной лабораторной работе я научился связывать проект на unity, инструменты google и проект на Python, впервые поработал с аудиофайлами в unity, а также связал линейную регрессию с Google-Sheets.
